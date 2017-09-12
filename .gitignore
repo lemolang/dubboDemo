@@ -1,0 +1,10 @@
+/.idea
+/test
+/target
+*.iml
+/dubboDemo-base/target/
+/dubboDemo-entity/target/
+/dubboDemo-service/target/
+/dubboDemo-web/target/
+/dubboDemo-api/target/
+/out
